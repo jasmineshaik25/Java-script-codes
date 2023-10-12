@@ -16,3 +16,7 @@ if (inputSentence) {
 } else {
   alert("No input provided. Please enter a sentence.");
 }
+
+OUTPUT:
+Enter a sentence to reverse the words: This is a sunday
+siht si a yadnus
